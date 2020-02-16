@@ -1,4 +1,4 @@
-Teste Jera
+Teste Jera:
 Primeira deve-se iniciar o mysql com o arquivo "banco de dados.sql", selecionar todas as linhas e executar o banco de dados
 	(exeto a 70, que serve para ver se o banco está sendo preenchido).
 

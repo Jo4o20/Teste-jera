@@ -9,4 +9,4 @@ Ao executar o projeto, duas abas surgiram, "Login" e "Registar"
 	para se fazer login, só é possivel com o email "teste" e senha "teste"
 	ao registrar, só é possível ver os dados cadastrados no proprio mysql.
 
-Infelizmente não consegui implementar corretamente o Login, e não tive consegui usar a API desejada no java
+Infelizmente não consegui implementar corretamente o Login, e não consegui usar a API desejada no java
